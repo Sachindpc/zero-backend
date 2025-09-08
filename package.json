@@ -1,0 +1,9 @@
+{
+  "name": "zero-backend",
+  "version": "1.0.0",
+  "description": "A proxy for the Groq API.",
+  "main": "netlify/functions/chat.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
